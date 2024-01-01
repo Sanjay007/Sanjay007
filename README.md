@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Open Source Projects ...
 - 📫 How to reach me ...
 - Follow me on https://frugalisminds.com
+- https://thelinuxterminal.com
+- https://agecalculator.thelinuxterminal.com
 
 <!---
 Sanjay007/Sanjay007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
